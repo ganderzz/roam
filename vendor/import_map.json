@@ -1,0 +1,10 @@
+{
+  "imports": {
+    "https://esm.sh/": "./esm.sh/"
+  },
+  "scopes": {
+    "./esm.sh/": {
+      "/stable/preact@10.11.0/deno/preact.js": "./esm.sh/stable/preact@10.11.0/deno/preact.js"
+    }
+  }
+}
